@@ -34,47 +34,47 @@ Recursos disponibles
 
 ### Campos del recurso
 
-•	numero_registro (int): Número con el que queda registrado el viaje
-•	funcionario_nombre (string): Nombre del funcionario que realizó el viaje
-•	funcionario_apellido (string): Apellido del funcionario que realizó el viaje
-•	funcionario_cuil (int): CUIL del funcionario que realizó el viaje
-•	funcionario_jurisdiccion (string): Jurisdicción a la que pertenece el funcionario que realizó el viaje
-•	funcionario_reparticion (string): Repartición del funcionario que realizó el viaje
-•	funcionario_cargo (string): Cargo o función que desempeña el funcionario que realizó el viaje
-•	viaje_destino (string): Lugar de destino del viaje
-•	viaje_fecha_inicio (date): Fecha en la que se inició el viaje
-•	viaje_fecha_fin (date): Fecha en la que finalizó el viaje
-•	viaje_medio_transporte (string): Medio de transporte utilizado en el viaje
-•	financiamiento_fuente (string): Fuente (entidad, organismo o persona) de financiamiento del viaje
-•	financiamiento_origen (string): Origen del financiamiento del viaje
-•	financiamiento_organismo (string): Denominación del organismo que financió el viaje
-•	financiamiento_area_contacto (string): Área del organismo que financió el viaje
-•	financiamiento_nombres (string): Nombres de la persona que financió el viaje
-•	financiamiento_apellidos (string): Apellidos de la persona que financió el viaje
-•	financiamiento_cuit (int): CUIT de la persona jurídica que financió el viaje
-•	financiamiento_razon_social (string): Razón social de la persona jurídica que financió el viaje
-•	financiamiento_nombres_rep (string): Nombres del representante de la presona jurídica que fianció el viaje
-•	financiamiento_apellidos_rep (string): Apellidos del representante de la persona jurídica que financió el viaje
-•	financiamiento_cargo_rep (string): Cargo del representante de la persona jurídica que financió el viaje
-•	financiamiento_nombres_ref (string): Nombres del representante de la entidad que financió el viaje
-•	financiamiento_apellidos_ref (string): Apellidos del representante de la entidad que financió el viaje
-•	financiamiento_cargo_ref (string): Cargo del representante de la entidad que financió el viaje
-•	financiamiento_erogacionl (string): Información acerca de si tuvo o no erogación del Estado
-•	erogacion_estadia (string): Indicación de si la estadía fue erogada por el Estado
-•	erogacion_pasajes (string): Indicación de si de los pasajes fueron erogados por el Estado
-•	erogacion_viaticos_100 (int): Indicación de si los viáticos fueron erogados en un 100% por el Estado
-•	erogacion_viaticos_25 (int): Indicación de si los viáticos fueron erogados en un 25% por el Estado
-•	erogacion_arancel_evento (int): Indicación de si el arancel del evento fue erogado por el Estado
-•	erogacion_monto_estado (int): Monto erogado por el Estado
-•	erogacion_resolucion (string): Individualización del acto administrativo por el que se autorizó la erogación de gastos
-•	evento_participacion (string): Evento en el que participó
-•	evento_fecha_inicio (date): Fecha de inicio del evento al que asistió
-•	evento_fecha_fin (date): Fecha de finalización del evento al que asistió
-•	participacion_capacitador (int): Participación en carácter de capacitador (0 = no; 1 = si)
-•	participacion_expositor (int): Participación en carácter de expositor (0 = no; 1 = si)
-•	participacion_participante (int): Participación en carácter de participante (0 = no; 1 = si)
-•	participacion_otro (int): Otras opciones de participación (no capacitador, no expositor, no participante)
-•	participacion_descripcion (string): Descripción de la participación en el evento al que se asistió 
+-   **numero_registro (int): Número con el que queda registrado el viaje
+-   **funcionario_nombre (string): Nombre del funcionario que realizó el viaje
+-   **funcionario_apellido (string): Apellido del funcionario que realizó el viaje
+-   **funcionario_cuil (int): CUIL del funcionario que realizó el viaje
+-   **funcionario_jurisdiccion (string): Jurisdicción a la que pertenece el funcionario que realizó el viaje
+-   **funcionario_reparticion (string): Repartición del funcionario que realizó el viaje
+-   **funcionario_cargo (string): Cargo o función que desempeña el funcionario que realizó el viaje
+-   **viaje_destino (string): Lugar de destino del viaje
+-   **viaje_fecha_inicio (date): Fecha en la que se inició el viaje
+-   **viaje_fecha_fin (date): Fecha en la que finalizó el viaje
+-   **viaje_medio_transporte (string): Medio de transporte utilizado en el viaje
+-   **financiamiento_fuente (string): Fuente (entidad, organismo o persona) de financiamiento del viaje
+-   **financiamiento_origen (string): Origen del financiamiento del viaje
+-   **financiamiento_organismo (string): Denominación del organismo que financió el viaje
+-   **financiamiento_area_contacto (string): Área del organismo que financió el viaje
+-   **financiamiento_nombres (string): Nombres de la persona que financió el viaje
+-   **financiamiento_apellidos (string): Apellidos de la persona que financió el viaje
+-   **financiamiento_cuit (int): CUIT de la persona jurídica que financió el viaje
+-   **financiamiento_razon_social (string): Razón social de la persona jurídica que financió el viaje
+-   **financiamiento_nombres_rep (string): Nombres del representante de la presona jurídica que fianció el viaje
+-   **financiamiento_apellidos_rep (string): Apellidos del representante de la persona jurídica que financió el viaje
+-   **financiamiento_cargo_rep (string): Cargo del representante de la persona jurídica que financió el viaje
+-   **financiamiento_nombres_ref (string): Nombres del representante de la entidad que financió el viaje
+-   **financiamiento_apellidos_ref (string): Apellidos del representante de la entidad que financió el viaje
+-   **financiamiento_cargo_ref (string): Cargo del representante de la entidad que financió el viaje
+-   **financiamiento_erogacionl (string): Información acerca de si tuvo o no erogación del Estado
+-   **erogacion_estadia (string): Indicación de si la estadía fue erogada por el Estado
+-   **erogacion_pasajes (string): Indicación de si de los pasajes fueron erogados por el Estado
+-   **erogacion_viaticos_100 (int): Indicación de si los viáticos fueron erogados en un 100% por el Estado
+-   **erogacion_viaticos_25 (int): Indicación de si los viáticos fueron erogados en un 25% por el Estado
+-   **erogacion_arancel_evento (int): Indicación de si el arancel del evento fue erogado por el Estado
+-   **erogacion_monto_estado (int): Monto erogado por el Estado
+-   **erogacion_resolucion (string): Individualización del acto administrativo por el que se autorizó la erogación de gastos
+-   **evento_participacion (string): Evento en el que participó
+-   **evento_fecha_inicio (date): Fecha de inicio del evento al que asistió
+-   **evento_fecha_fin (date): Fecha de finalización del evento al que asistió
+-   **participacion_capacitador (int): Participación en carácter de capacitador (0 = no; 1 = si)
+-   **participacion_expositor (int): Participación en carácter de expositor (0 = no; 1 = si)
+-   **participacion_participante (int): Participación en carácter de participante (0 = no; 1 = si)
+-   **participacion_otro (int): Otras opciones de participación (no capacitador, no expositor, no participante)
+-   **participacion_descripcion (string): Descripción de la participación en el evento al que se asistió 
 
 
 ### Notas
