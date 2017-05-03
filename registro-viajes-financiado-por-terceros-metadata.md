@@ -7,8 +7,6 @@ Dicho Decreto regula la registración de los viajes y/o estadías financiados po
 Características
 ---------------
 
--   **Fecha de Publicación:**
-
 -   **Tags o Etiquetas:** anticorrupción, obsequios, funcionarios
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
@@ -35,6 +33,7 @@ Recursos disponibles
 -   **Rango temporal:** desde su implementación hasta la fecha
 
 ### Campos del recurso
+
 •	numero_registro (int): Número con el que queda registrado el viaje
 •	funcionario_nombre (string): Nombre del funcionario que realizó el viaje
 •	funcionario_apellido (string): Apellido del funcionario que realizó el viaje
