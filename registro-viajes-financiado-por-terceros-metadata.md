@@ -26,7 +26,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-de-viajes-financiados-por-terceros.csv
 
--   **Descripción del contenido:** Conjunto de datos que detalla los obsequios a funcionarios públicos registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
+-   **Descripción del contenido:** Conjunto de datos que detalla los viajes de los funcionarios públicos financiados por terceros registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
 
 -   **Formato:** CSV delimitado por comas
 
