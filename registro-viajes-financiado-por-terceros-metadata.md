@@ -6,6 +6,7 @@ Dicho Decreto regula la registración de los viajes y/o estadías financiados po
 
 Características
 ---------------
+-   **Fecha de Primera Publicación:** 03/05/2017
 
 -   **Tags o Etiquetas:** anticorrupción, obsequios, funcionarios
 
