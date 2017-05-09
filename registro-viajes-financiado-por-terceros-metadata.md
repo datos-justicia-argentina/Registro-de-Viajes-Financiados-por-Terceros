@@ -17,7 +17,7 @@ Características
 
 -   **Grupo:** Anticorrupción
 
--   **Frecuencia de Actualización:** Mensual
+-   **Frecuencia de Actualización:** Mensualmente
 
 Recursos disponibles
 --------------------
