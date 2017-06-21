@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Descripción del contenido:** Conjunto de datos que detalla los viajes de los funcionarios públicos financiados por terceros registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
 
--   **Formato:** CSV delimitado por comas
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** desde su implementación hasta la fecha
 
