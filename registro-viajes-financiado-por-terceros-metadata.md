@@ -8,7 +8,7 @@ Características
 ---------------
 -   **Fecha de Primera Publicación:** 03/05/2017
 
--   **Tags o Etiquetas:** anticorrupción, obsequios, funcionarios
+-   **Tags o Etiquetas:** anticorrupción, obsequios, funcionarios, transparencia
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
 
@@ -16,7 +16,7 @@ Características
 
 -   **Responsable:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
 
--   **Grupo:** Anticorrupción
+-   **Grupo:** Transparencia y Anticorrupción
 
 -   **Frecuencia de Actualización:** Mensualmente
 
