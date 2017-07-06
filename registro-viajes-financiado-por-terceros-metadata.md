@@ -16,7 +16,7 @@ Características
 
 -   **Responsable:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
 
--   **Grupo:** Transparencia y Anticorrupción
+-   **Grupo:** Transparencia y anticorrupción
 
 -   **Frecuencia de Actualización:** Mensualmente
 
