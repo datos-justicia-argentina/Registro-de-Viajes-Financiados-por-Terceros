@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-viajes-financiados-terceros.csv
 
--   **Descripción del contenido:** conjunto de datos que detalla los viajes de los funcionarios públicos financiados por terceros registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
+-   **Descripción del contenido:** se detallan los viajes de los funcionarios públicos financiados por terceros registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
