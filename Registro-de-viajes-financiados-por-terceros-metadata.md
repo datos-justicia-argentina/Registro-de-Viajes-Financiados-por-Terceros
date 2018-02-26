@@ -117,6 +117,7 @@ Recursos disponibles
 
 -   **participacion_descripcion (string):** descripción de la participación en el evento al que se asistió
 
--   Notas
+Notas
+-----
 
 [Ley de Ética en el Ejercicio de la Función Pública N° 25.188](http://www.saij.gob.ar/1179-nacional-reglamentacion-articulo-18-regimen-obsequios-funcionarios-publicos-ley-etica-ejercicio-funcion-publica-25188-dn20160001179-2016-11-18/123456789-0abc-971-1000-6102soterced?q=%28numero-norma%3A1179%20%29%20AND%20titulo%3A%20R%E9gimen%20AND%20titulo%3A%20Obsequios%20AND%20titulo%3A%20Funcionarios%20AND%20titulo%3A%20P%FAblicos&o=0&f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Decreto%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Nacional&t=2#CT001).
