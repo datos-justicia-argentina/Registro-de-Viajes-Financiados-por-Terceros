@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Registro de viajes financiados por terceros
+### Registro de viajes financiados por terceros - AAAA-MM-DD
 
--   **Nombre del archivo:** registro-viajes-financiados-terceros.csv
+-   **Nombre del archivo:** registro-viajes-financiados-terceros-AAAA-MM-DD.csv
 
 -   **Descripción del contenido:** se detallan los viajes de los funcionarios públicos financiados por terceros registrados en el ámbito de la oficina anticorrupción del Ministerio de Justicia y Derechos Humanos
 
