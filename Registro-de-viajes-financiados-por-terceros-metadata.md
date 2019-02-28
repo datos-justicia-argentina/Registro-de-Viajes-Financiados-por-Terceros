@@ -1,7 +1,7 @@
 Registro de viajes financiados por terceros
 ===========================================
 
-En este conjunto de datos se detalla el registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188. Dicho Decreto regula la registración de los viajes y/o estadías financiados por terceros (gobiernos, entidades o personas) a los funcionarios, para el dictado de conferencias, cursos o actividades académicas o culturales, o la participación en ellas, beneficio que puede ser aceptado por los agentes públicos sólo bajo ciertas condiciones y siempre que no resultare incompatibles con las funciones del cargo o prohibido por normas especiales.
+Este conjunto de datos contiene el registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188. Dicho Decreto regula la registración de los viajes y/o estadías financiados por terceros (gobiernos, entidades o personas) a los funcionarios, para el dictado de conferencias, cursos o actividades académicas o culturales, o la participación en ellas, beneficio que puede ser aceptado por los agentes públicos sólo bajo ciertas condiciones y siempre que no resultare incompatibles con las funciones del cargo o prohibido por normas especiales.
 
 http://datos.jus.gob.ar/dataset/registro-de-viajes-financiados-por-terceros
 
