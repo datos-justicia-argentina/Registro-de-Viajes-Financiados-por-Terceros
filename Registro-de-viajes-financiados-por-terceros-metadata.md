@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Registro de viajes financiados por terceros - AAAA-MM-DD
+### Registro de viajes financiados por terceros - AAAAMMDD
 
 -   **Nombre del archivo:** registro-viajes-financiados-terceros-AAAAMMDD.csv
 
