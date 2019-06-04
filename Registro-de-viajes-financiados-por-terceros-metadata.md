@@ -121,6 +121,14 @@ Recursos disponibles
 
 -   **destino_pais_indec_id (string):** código de país de destino del viaje, según la codificación implementada por INDEC
 
+### Registro de viajes financiados por terceros - AAAA
+
+-   **Nombre del archivo:** registro-viajes-financiados-terceros-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
 ### Notas
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
